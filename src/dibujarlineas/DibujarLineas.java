@@ -60,6 +60,7 @@ public class DibujarLineas extends Application {
         primaryStage.setTitle("Lineas");
         primaryStage.setScene(scene);
         primaryStage.show();
+	// esto es una prueba
 
     }
 
